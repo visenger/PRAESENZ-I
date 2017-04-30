@@ -89,6 +89,8 @@ public class Lesson3 {
      * @throws IOException If word file cannot be read
      */
     public static void main(String[] args) throws IOException {
+        System.out.println("JDK 8 Lambdas and Streams Lesson 3");
+
         RandomWords fullWordList = new RandomWords();
         List<String> wordList = fullWordList.select(1000);
 

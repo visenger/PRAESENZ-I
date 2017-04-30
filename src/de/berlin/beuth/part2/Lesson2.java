@@ -40,6 +40,7 @@ public class Lesson2 {
     }
 
     public void runExercises() {
+        System.out.println("JDK 8 Lambdas and Streams Lesson 2");
         exercise1();
         exercise2();
         exercise3();
