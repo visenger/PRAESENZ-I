@@ -11,5 +11,5 @@ Die Präsenz besteht aus drei Teilen:
 ## Hinweise zu Aufgaben:
 
 - Die Deadline für die Abgabe von den Präsenzaufgaben: 15.05.2017
-- Der Projekt ist ein Grundgerüst für die Einzelnaufgaben. Sie müssen die Methoden mit ` /* YOUR CODE HERE */` implementieren.
-- xxx
+- Das Projekt ist ein Grundgerüst für die Einzelnaufgaben. Sie müssen die Methoden mit ` /* YOUR CODE HERE */` implementieren.
+- Um das Projekt runterzuladen nutzen Sie bitte diesen [Link](https://github.com/visenger/PRAESENZ-I/archive/master.zip).
