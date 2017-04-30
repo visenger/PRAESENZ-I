@@ -4,12 +4,12 @@ Willkommen zu unseren ersten Präsenz in Programmierung II (MIB). In diesem Proj
 
 Die Präsenz besteht aus drei Teilen: 
 
-- [ ] **WarmUp:** Dieses Teis besteht aus kleinen Aufgaben um sich mit dem Konzepten von Streams und Lambda vertraut zu machen. 
-- [ ] **Kata:** Im zweiten Teil, wir vertifen unseres Java8 Wissen und Können und implementieren verschiedene Abfragen an eine mini-Datenbank. 
-- [ ] **Krafttraining:** Im letzten Teil, Ziel ist es ein kleines Benchmark zu implementieren. Die zu messenden Methoden sollten als Parameter übergeben werden. Außerdem, werden wir den Unterschied zwischen einer sequenziellen und parallelen Ausführung von Streams untersuchen.
+- [ ] **WarmUp:** [Dieses Teis](https://github.com/visenger/PRAESENZ-I/tree/master/src/de/berlin/beuth/part1) besteht aus kleinen Aufgaben um sich mit dem Konzepten von Streams und Lambda vertraut zu machen. 
+- [ ] **Kata:** Im [zweiten Teil](https://github.com/visenger/PRAESENZ-I/tree/master/src/de/berlin/beuth/part2), wir vertifen unseres Java8 Wissen und Können und implementieren verschiedene Abfragen an eine mini-Datenbank. 
+- [ ] **Krafttraining:** Im [letzten Teil](https://github.com/visenger/PRAESENZ-I/tree/master/src/de/berlin/beuth/part3), Ziel ist es ein kleines Benchmark zu implementieren. Die zu messenden Methoden sollten als Parameter übergeben werden. Außerdem, werden wir den Unterschied zwischen einer sequenziellen und parallelen Ausführung von Streams untersuchen.
 
 ## Hinweise zu Aufgaben:
 
-- Die Deadline für die Abgabe von den Präsenzaufgaben: 15.05.2017
+- Die Deadline für die Abgabe von den Präsenzaufgaben: **15.05.2017**
 - Das Projekt ist ein Grundgerüst für die Einzelnaufgaben. Sie müssen die Methoden mit ` /* YOUR CODE HERE */` implementieren.
 - Um das Projekt runterzuladen nutzen Sie bitte diesen [Link](https://github.com/visenger/PRAESENZ-I/archive/master.zip).
