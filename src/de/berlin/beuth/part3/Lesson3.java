@@ -5,6 +5,7 @@ package de.berlin.beuth.part3;
 
 
 import java.io.IOException;
+import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.function.Supplier;
@@ -66,6 +67,7 @@ public class Lesson3 {
 
         // YOUR CODE HERE
 
+
         return distances;
     }
 
@@ -77,9 +79,10 @@ public class Lesson3 {
      * @return The list processed in whatever way you want
      */
     static List<String> processWords(List<String> wordList, boolean parallel) {
+        List<String> result = Collections.EMPTY_LIST;
         // YOUR CODE HERE
 
-        return null;
+        return result;
     }
 
     /**
@@ -94,11 +97,11 @@ public class Lesson3 {
         RandomWords fullWordList = new RandomWords();
         List<String> wordList = fullWordList.select(1000);
 
-        measure("Sequential", () -> computeLevenshtein(wordList, false));
-        measure("Parallel", () -> computeLevenshtein(wordList, true));
+        measure("Sequential Levenshtein", () -> computeLevenshtein(wordList, false));
+        measure("Parallel Levenshtein", () -> computeLevenshtein(wordList, true));
 
-        //measure("Sequential", () -> processWords(wordList, false));
-        //measure("Parallel", () -> processWords(wordList, true));
+        measure("Sequential words processing", () -> processWords(wordList, false));
+        measure("Parallel words processing", () -> processWords(wordList, true));
 
         // Well done! :)
     }
