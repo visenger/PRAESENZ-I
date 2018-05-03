@@ -29,10 +29,7 @@ public class Transaction {
 
     @Override
     public String toString() {
-        return "Transaction{" +
-                "trader=" + trader +
-                ", year=" + year +
-                ", value=" + value +
-                '}';
+        return String.format("Transaction {trader = %s, year = %d, value = %d}", trader, year, value);
+
     }
 }
