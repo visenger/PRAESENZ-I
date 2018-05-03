@@ -1,6 +1,6 @@
 # PRÄSENZ-I
 
-Willkommen zu unseren ersten Präsenz in Programmierung II (MIB). In diesem Projekt finden Sie die Aufgaben für das Thema **Java 8: Streams & Lambda Expressions**.
+Willkommen zu unseren ersten Präsenz in Programmierung II. In diesem Projekt finden Sie die Aufgaben für das Thema **Java 8: Streams & Lambda Expressions**.
 
 Die Präsenz besteht aus drei Teilen: 
 
@@ -10,6 +10,6 @@ Die Präsenz besteht aus drei Teilen:
 
 ## Hinweise zu Aufgaben:
 
-- Die Deadline für die Abgabe der Präsenzaufgaben: **16.05.2017**
+- Die Deadline für die Abgabe der Präsenzaufgaben: **20.05.2018**
 - Das Projekt ist ein Grundgerüst für die Einzelnaufgaben. Sie müssen die Methoden mit `/* YOUR CODE HERE */` implementieren.
 - Um das Projekt herunterzuladen, nutzen Sie bitte diesen [Link](https://github.com/visenger/PRAESENZ-I/archive/master.zip).
